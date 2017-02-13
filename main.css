@@ -1,0 +1,79 @@
+body{
+    padding: 0px;
+    background-color: teal;
+    padding-bottom: 40px;
+    
+}
+header{
+    font-family: "Cambria Math", "Times New Roman", serif;
+    color: azure;
+    background-color: cadetblue;
+    margin-top: none;
+    padding: 5px;
+}
+.section{
+    border: double 5px lightgray;
+    border-radius: 25px;
+    box-shadow: 12px 12px 25px lightgray;
+    font-family: "Cambria Math", "Times New Roman", serif;
+    margin: 30px 0px;
+    padding-bottom: 10px;
+}
+.section .col-xs-12{
+    text-align: center;
+}
+.result{
+    background-color: cadetblue;
+    border: double 6px white;
+    color: azure;
+}
+table {
+    font-size: 20px;
+}
+td div{
+    margin: auto;
+}
+td input{
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+}
+#or p{
+    padding: 0px;
+}
+.rateOption {
+    padding: 10px 0px;
+    border: solid 3px darkgrey;
+}
+#rateOption1{
+    background-color: cadetblue;
+}
+#rateOption2{
+    background-color: lightgray;
+    
+}
+
+#addLiabilitiesBtn{
+    background-color: white;
+    color: cadetblue;
+    border: double 4px cadetblue;
+    border-radius: 10px;
+    width: 50%;
+    font-size: 16px;
+}
+.removeBtn{
+    background: cadetblue;
+    color: white;
+    border-radius: 10px;
+}
+#getRatioBtn{
+    background-color: white;
+    color: cadetblue;
+    font-weight: 800;
+    border: double 6px cadetblue;
+    border-radius: 10px;
+    width: 50%;
+    font-size: 24px;
+}
